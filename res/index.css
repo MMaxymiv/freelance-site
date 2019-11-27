@@ -795,7 +795,7 @@ a {
     margin-bottom: 30px;
 }
 
-.blogs__img {
+.blogs__img img{
     display: block;
     width: 120px;
     height: 80px;
