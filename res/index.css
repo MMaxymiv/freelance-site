@@ -736,7 +736,7 @@ a {
     align-items: center;
     width: 55px;
     height: 52px;
-    margin-bottom: 30px;
+    margin: 30px 0 30px 0;
 
     font-size: 28px;
     font-family: 'Lora', serif;
@@ -746,15 +746,13 @@ a {
 }
 
 .footer__text {
-    margin-bottom: 30px;
-
     font-size: 14px;
     line-height: 25px;
     color: #404f54;
 }
 
 .footer__social {
-    margin-bottom: 25px;
+    margin: 70px 0 35px 0;
 }
 
 .footer__social-header {
@@ -767,8 +765,6 @@ a {
 }
 
 .footer__social-content {
-    padding-top: 15px;
-
     font-size: 15px;
     color: #404f54;
 }
@@ -800,6 +796,7 @@ a {
 }
 
 .blogs__img {
+    display: block;
     width: 120px;
     height: 80px;
 }
